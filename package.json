@@ -1,0 +1,13 @@
+{
+    "name": "chatbot-whatsapp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "whatsapp-web.js": "latest",
+      "qrcode-terminal": "latest",
+      "puppeteer": "latest"
+    }
+  }
